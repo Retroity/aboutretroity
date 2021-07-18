@@ -122,61 +122,61 @@ footer a:active {
   color: #FFFFFF;
 }
 
-.button-website a:link, a:visited {
+.button-website:link, button-website:visited {
   border: 4px solid #546E7A;
   color: #FFFFFF;
   margin-bottom: -1.6em;
 }
 
-.button-website a:hover {
+.button-website:hover {
   background-color: #546E7A!important;
 }
 
-.button-youtube a:link, a:visited {
+.button-youtube:link, button-youtube:visited {
   border: 4px solid #FF0000;
   color: #FFFFFF;
   margin-bottom: -1.6em;
 }
 
-.button-youtube a:hover {
+.button-youtube:hover {
   background-color: #FF0000!important;
 }
 
-.button-twitter a:link, a:visited {
+.button-twitter:link, button-twitter:visited {
   border: 4px solid #1DA1F2;
   color: #FFFFFF;
   margin-bottom: -1.6em;
 }
 
-.button-twitter a:hover {
+.button-twitter:hover {
   background-color: #1DA1F2!important;
 }
 
-.button-discord a:link, a:visited {
+.button-discord:link, button-discord:visited {
   border: 4px solid #5865F2;
   color: #FFFFFF;
   margin-bottom: -1.6em;
 }
 
-.button-discord a:hover {
+.button-discord:hover {
   background-color: #5865F2!important;
 }
 
-.button-twitch a:link, a:visited {
+.button-twitch:link, .button-twitch:visited {
   border: 4px solid #9146FF;
   color: #FFFFFF;
   margin-bottom: -1.6em;
 }
 
-.button-twitch a:hover {
+.button-twitch:hover {
   background-color: #9146FF!important;
 }
 
-.button-cc a:link, a:visited {
+.button-cc:link, button-cc:visited {
   border: 4px solid #de7c00;
   color: #FFFFFF;
 }
 
-.button-cc a:hover {
+.button-cc:hover {
   background-color: #de7c00!important;
 }
