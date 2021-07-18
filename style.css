@@ -1,0 +1,182 @@
+/* RETROITY ABOUT SITE STYLESHEET */
+/* LICENSE: MIT (EXPAT) */
+
+html {
+  background: rgb(172,4,255);
+  background: -moz-linear-gradient(180deg, rgba(172,4,255,1) 0%, rgba(132,0,241,1) 35%, rgba(102,0,233,1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(172,4,255,1) 0%, rgba(132,0,241,1) 35%, rgba(102,0,233,1) 100%);
+  background: linear-gradient(180deg, rgba(172,4,255,1) 0%, rgba(132,0,241,1) 35%, rgba(102,0,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ac04ff",endColorstr="#6600e9",GradientType=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: block;
+  min-height: 100%;
+  height: 100%;
+  position: relative;
+}
+
+body {
+  max-width: 48em;
+  margin: 0 auto;
+  padding: 1em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #FFFFFF;
+  word-break: break-word;
+}
+
+p {
+  font-size: 1.4em;
+}
+
+a, a:visited {
+  color: #0277BD;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: #01579B;
+}
+
+h1 {
+  font-size: 2.6em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+li {
+  font-size: 1.35em;
+}
+
+img {
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 700;
+  line-height: 0.5em;
+}
+
+footer a, footer a:visited {
+  color: #81D4FA;
+}
+
+footer a:active {
+  color: #039BE5;
+}
+
+.container {
+  width: 100%;
+  background-color: #424242;
+  border-radius: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0.8em;
+  box-shadow: 0px 5px 5px #212121;
+  box-sizing: border-box;
+  display: block;
+}
+
+.text-center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 70%!important;
+}
+
+.sona {
+  width: 50%!important;
+  float: left;
+  text-align: center;
+  margin
+}
+
+.sona img {
+  margin-bottom: -2em;
+}
+
+.button, .button a {
+  padding: 0.8em;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 2em;
+  font-weight: 700;
+  width: 100%;
+  background-color: Transparent;
+  display: block;
+  box-sizing: inherit;
+  transition: 0.5s color, 0.5s background-color;
+  color: #FFFFFF;
+}
+
+.button-website a:link, a:visited {
+  border: 4px solid #546E7A;
+  color: #FFFFFF;
+  margin-bottom: -1.6em;
+}
+
+.button-website a:hover {
+  background-color: #546E7A!important;
+}
+
+.button-youtube a:link, a:visited {
+  border: 4px solid #FF0000;
+  color: #FFFFFF;
+  margin-bottom: -1.6em;
+}
+
+.button-youtube a:hover {
+  background-color: #FF0000!important;
+}
+
+.button-twitter a:link, a:visited {
+  border: 4px solid #1DA1F2;
+  color: #FFFFFF;
+  margin-bottom: -1.6em;
+}
+
+.button-twitter a:hover {
+  background-color: #1DA1F2!important;
+}
+
+.button-discord a:link, a:visited {
+  border: 4px solid #5865F2;
+  color: #FFFFFF;
+  margin-bottom: -1.6em;
+}
+
+.button-discord a:hover {
+  background-color: #5865F2!important;
+}
+
+.button-twitch a:link, a:visited {
+  border: 4px solid #9146FF;
+  color: #FFFFFF;
+  margin-bottom: -1.6em;
+}
+
+.button-twitch a:hover {
+  background-color: #9146FF!important;
+}
+
+.button-cc a:link, a:visited {
+  border: 4px solid #de7c00;
+  color: #FFFFFF;
+}
+
+.button-cc a:hover {
+  background-color: #de7c00!important;
+}
