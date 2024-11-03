@@ -98,14 +98,18 @@ footer a:active {
 }
 
 .sona {
-  width: 50%!important;
+  width: 35%!important;
   float: left;
   text-align: center;
-  margin
+  padding-right: 4px;
 }
 
 .sona img {
-  margin-bottom: -2em;
+  margin-bottom: -3.2em;
+}
+
+.linksheader {
+  margin-top: 18%;
 }
 
 .button, .button a {
